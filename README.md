@@ -1,2 +1,4 @@
-# insa-nxpcup-3
-Depot pour la competition NXPCup equipe 3
+# insa-alamak
+Repository for Insa NXP Cup Team 3
+
+Dev branch
