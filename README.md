@@ -1,2 +1,8 @@
-# insa-nxpcup-3
-Depot pour la competition NXPCup equipe 3
+# insa-alamak
+Repository for INSA NXP Cup Team 3
+
+Your are in branch master, nothing should be done here
+Select a valid branch:
+
+	git checkout stable    : stable branch
+	git checkout dev       : work in progress
